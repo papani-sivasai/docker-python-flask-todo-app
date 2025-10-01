@@ -21,7 +21,7 @@ venv\Scripts\activate
 
 Install Flask
 ```console
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Set environment variables in terminal
